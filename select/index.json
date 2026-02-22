@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Planet Rock (12\" vocal version)",
+  "base_artist": "The Soulsonic Force",
+  "createdAt": "2026-02-22T16:17:45.065586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa & The Soulsonic Force",
+      "has_synced": false,
+      "path": "select/01_Planet_Rock_Afrika_Bambaataa_&_The_Soulsonic_Force.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa & Soulsonic Force",
+      "has_synced": true,
+      "path": "select/02_Planet_Rock_Afrika_Bambaataa_&_Soulsonic_Force.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa & The Soul Sonic Force",
+      "has_synced": true,
+      "path": "select/03_Planet_Rock_Afrika_Bambaataa_&_The_Soul_Sonic_Force.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa",
+      "has_synced": true,
+      "path": "select/04_Planet_Rock_Afrika_Bambaataa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa And The Soul Sonic Force",
+      "has_synced": true,
+      "path": "select/05_Planet_Rock_Afrika_Bambaataa_And_The_Soul_Sonic_Force.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa",
+      "has_synced": true,
+      "path": "select/06_Planet_Rock_Afrika_Bambaataa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Planet Rock 2k (Origional Version)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/07_Planet_Rock_2k_(Origional_Version)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Planet Rock 2K (original version)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/08_Planet_Rock_2K_(original_version)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Planet Rock (12\" vocal version)",
+      "artist": "Afrika Bambaataa & Soulsonic Force",
+      "has_synced": false,
+      "path": "select/09_Planet_Rock_(12__vocal_version)_Afrika_Bambaataa_&_Soulsonic_Force.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Stop... Planet Rock",
+      "artist": "Afrika Bambaataa & Soulsonic Force",
+      "has_synced": false,
+      "path": "select/10_Don't_Stop..._Planet_Rock_Afrika_Bambaataa_&_Soulsonic_Force.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Stop..Planet Rock",
+      "artist": "Afrika Bambaataa",
+      "has_synced": true,
+      "path": "select/11_Don't_Stop..Planet_Rock_Afrika_Bambaataa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Stop Believin' in Planet Rock (Journey vs. Afrika Bambaataa)",
+      "artist": "A Plus D",
+      "has_synced": false,
+      "path": "select/12_Don't_Stop_Believin'_in_Planet_Rock_(Journey_vs._Afrika_Bambaataa)_A_Plus_D.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don’t Stop Believin’ In Planet Rock (Journey vs. Afrika Bambaataa)",
+      "artist": "A Plus D",
+      "has_synced": false,
+      "path": "select/13_Don’t_Stop_Believin’_In_Planet_Rock_(Journey_vs._Afrika_Bambaataa)_A_Plus_D.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Planet Rock 2k (Down South Mix)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/14_Planet_Rock_2k_(Down_South_Mix)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Planet Rock 2K (Down South remix)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/15_Planet_Rock_2K_(Down_South_remix)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Planet Rock (Swordfish mix)",
+      "artist": "Afrika Bambaataa & Soulsonic Force",
+      "has_synced": false,
+      "path": "select/16_Planet_Rock_(Swordfish_mix)_Afrika_Bambaataa_&_Soulsonic_Force.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Planet Rock",
+      "artist": "Soul Sonic Force",
+      "has_synced": false,
+      "path": "select/pl_01_Planet_Rock_Soul_Sonic_Force.txt"
+    }
+  ]
+}
